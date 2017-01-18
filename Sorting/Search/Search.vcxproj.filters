@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SequantialSearchST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ISymbolTable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="IIndexedSymbolTable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BinarySearchST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ArrayST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OrderedSequentialSearchST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BinarySearchSingleItemST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BinarySearchBaseST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BinarySearchInterpolationST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BSTBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BSTNr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BSTEnh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RedBlackBST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RedBlackBSTBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TopDown234Tree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BottomUp234Tree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RedBlackBSTEnh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SeparateChainingHashST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HashSymbolTableBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LinearProbingHashST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SeparateChainingHashSTEnh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DoubleProbingHashST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DoubleHashingLPHashST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SETWrapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ISet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HashSETWrapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SequentialSearchSET.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BinarySearchSET.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiMapLP.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiMapBST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiMapRedBlackBST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BSTPrep.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TrieST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TrieSTNr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TrieSTBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSTBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TSTNr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StringSET.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SubstringBrute.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="StringSET.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SubstringBrute.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

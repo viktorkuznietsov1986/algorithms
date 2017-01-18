@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Sorting">
+      <UniqueIdentifier>{fbf443f5-8497-469a-9ba8-0a7a1f6214f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Supporting Files">
+      <UniqueIdentifier>{bdc37919-0f11-407c-a503-53a0001d36b0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryHeapMaxPQTest.cpp">
+      <Filter>Source Files\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="HeapSortTest.cpp">
+      <Filter>Source Files\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="IndexMaxPQTest.cpp">
+      <Filter>Source Files\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertionSortTest.cpp">
+      <Filter>Source Files\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="OrderedArrayMaxPQTest.cpp">
+      <Filter>Source Files\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="OrderedLinkedListMaxPQTest.cpp">
+      <Filter>Source Files\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSortTest.cpp">
+      <Filter>Source Files\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="TopDownMergeSortTest.cpp">
+      <Filter>Source Files\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="UnorderedArrayMaxPQTest.cpp">
+      <Filter>Source Files\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="UnorderedLinkedListMaxPQTest.cpp">
+      <Filter>Source Files\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedListTest.cpp">
+      <Filter>Source Files\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="IndexMinPQTest.cpp">
+      <Filter>Source Files\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="StringSortSTTest.cpp">
+      <Filter>Source Files\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Sorting\StringSortST.cpp">
+      <Filter>Source Files\Supporting Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Sorting\KeyIndexedCountingForQueue.cpp">
+      <Filter>Source Files\Supporting Files</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyIndexedCountingForQueueTest.cpp">
+      <Filter>Source Files\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Sorting\LSDSort.cpp">
+      <Filter>Source Files\Supporting Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LSDSortTest.cpp">
+      <Filter>Source Files\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Sorting\MSDSort.cpp">
+      <Filter>Source Files\Supporting Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MSDSortTest.cpp">
+      <Filter>Source Files\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Sorting\MSDQueueSort.cpp">
+      <Filter>Source Files\Supporting Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MSDQueueSortTest.cpp">
+      <Filter>Source Files\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Sorting\Alphabet.cpp">
+      <Filter>Source Files\Supporting Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AlphabetTest.cpp">
+      <Filter>Source Files\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="SublinearSortTest.cpp">
+      <Filter>Source Files\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Sorting\SublinearSort.cpp">
+      <Filter>Source Files\Supporting Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Sorting\IntArraySort.cpp">
+      <Filter>Source Files\Supporting Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IntArraySortTest.cpp">
+      <Filter>Source Files\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Sorting\LinkedListSort.cpp">
+      <Filter>Source Files\Supporting Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedListSortTest.cpp">
+      <Filter>Source Files\Sorting</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
